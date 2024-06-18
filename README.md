@@ -1,4 +1,5 @@
-##  Hello! I'm Andrew Marshall👋
+![Header](./github-header-image.png)
+#
 
 - 🔭 I’m currently working on a game for the GBAjam  
 - 🌱 I’m currently learning graphics development
