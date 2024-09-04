@@ -9,6 +9,8 @@
 
 ## Currently Working on:
 
+### Loot Goblin
+Im making a roguelike 3D game in the vein of Lethal Company and Deeprock Galactic, essentially a goblin themed dungeon crawler with multiplayer VOIP
 
 ## Past Project(s)
 [![Goblin Survivor](https://github-readme-stats.vercel.app/api/pin/?username=afk47&repo=GoblinSurvivor)](https://github.com/afk47/GoblinSurvivor)
@@ -25,8 +27,6 @@ C++ Game engine I Worked on for about a month as a way to teach myself C++, I go
 ### [ShortStaf](https://shortstaf.com) 
 I worked on the backend of Android and IOS in Swift and Java, moving the project into a single react native project streamlining cross-platform development for the rest of the team
 
-### Unnamed Multiplayer Game
-Im making a roguelike 3D game in the vein of Lethal Company and Deeprock galactic, currently on the back burner as I work on other things
 
 ### [Inker](https://syncc23.itch.io/inker)
 Small gamejam game I made in unity with a small team, first game I've "Completed"
