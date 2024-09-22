@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 #
 
-- 🔭 I’m currently working on a game 
+- 🔭 I’m currently working on a first person multiplayer roguelike game 
 - 🌱 I’m currently learning graphics development
 - 💬 Ask me about any of my projects!
 - 📫 How to reach me: andrewmarshall2662@gmail.com 
