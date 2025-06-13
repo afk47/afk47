@@ -11,6 +11,9 @@
 
 [andrewmarshall.dev](https://andrewmarshall.dev)
 
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=afk47&repo=portfolio)](https://github.com/afk47/portfolio)
+
+
 ## Past Project(s)
 [![Goblin Survivor](https://github-readme-stats.vercel.app/api/pin/?username=afk47&repo=GoblinSurvivor)](https://github.com/afk47/GoblinSurvivor)
 
