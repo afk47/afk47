@@ -1,8 +1,8 @@
 ![Header](./github-header-image.png)
 #
 
-- 🔭 I’m currently working on a first person multiplayer roguelike game 
-- 🌱 I’m currently learning graphics development
+- 🔭 I’m currently working on a video game
+- 🌱 I’m currently learning more about Graphics Development
 - 💬 Ask me about any of my projects!
 - 📫 How to reach me: andrewmarshall2662@gmail.com 
 - 😄 Pronouns: he/him
@@ -15,13 +15,14 @@
 
 
 ## Past Project(s)
-[![Goblin Survivor](https://github-readme-stats.vercel.app/api/pin/?username=afk47&repo=GoblinSurvivor)](https://github.com/afk47/GoblinSurvivor)
+[![GBA Survivor](https://github-readme-stats.vercel.app/api/pin/?username=afk47&repo=GoblinSurvivor)](https://github.com/afk47/GoblinSurvivor)
 
 GBA Game using the [Butano](https://github.com/GValiente/butano) Engine, Inspired by [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/) for the GBAJAM24
 
 [![Leviathan](https://github-readme-stats.vercel.app/api/pin/?username=afk47&repo=Leviathan-Engine)](https://github.com/afk47/Leviathan-Engine)
 
 C++ Game engine I Worked on for about a month as a way to teach myself C++, I got OBJ files to load and render and shelved the project to work on other things
+will likely start this project up again at some point focusing on learning Crossplatform Vulkan development (mostly just want to learn Vulkan and enjoy working on linux)
 
 
 ## Other Projects ive worked on:
