@@ -1,17 +1,13 @@
 ![Header](./github-header-image.png)
 #
 
-- 🔭 I’m currently working on a video game
+- 🔭 I’m currently working on modding and game development
 - 🌱 I’m currently learning more about Graphics Development
 - 💬 Ask me about any of my projects!
 - 📫 How to reach me: andrewmarshall2662@gmail.com 
 - 😄 Pronouns: he/him
 
-## Currently Working on:
-
-[andrewmarshall.dev](https://andrewmarshall.dev)
-
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=afk47&repo=portfolio)](https://github.com/afk47/portfolio)
+<!-- ## Currently Working on: -->
 
 
 ## Past Project(s)
