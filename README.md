@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning more about Graphics Development
 - 💬 Ask me about any of my projects!
 - 📫 How to reach me: andrewmarshall2662@gmail.com 
-- 😄 Pronouns: he/him
 
 <!-- ## Currently Working on: -->
 
